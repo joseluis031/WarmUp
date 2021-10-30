@@ -1,5 +1,5 @@
 bitcoin_amount = 0.5 #cuanto bitcoin tengo
-bitcoin_value_euros = 40000 #el valor de 1 bitcoin en euros
+bitcoin_value_euros = 40000 #el valor actual de 1 bitcoin en euros
 
 def bitcoinToEuros(bitcoin_amount, bitcoin_value_euros):
     euros_value = bitcoin_amount * bitcoin_value_euros
