@@ -8,4 +8,4 @@ else:
     customer_cost = shipping_cost + customer_basket_cost
 
 print ("total basket cost incluidin shipping is" + str(customer_cost))
-# https://www.figma.com/file/w9fhJf3WYddTLNtUtjPfcY/primer-diagrama?node-id=0%3A1
+# https://www.figma.com/proto/w9fhJf3WYddTLNtUtjPfcY/primer-diagrama?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1
